@@ -113,9 +113,8 @@ nav {
 .logo span {
   color: var(--base-color);
 }
-
 main {
-  margin-top: var(--header-height);
+  margin: var(--header-height);
 }
 
 /*=============== HOME =============== */
